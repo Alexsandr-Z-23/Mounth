@@ -86,8 +86,7 @@ int main()
             break;
     }
     //cout << count << "\t" << num_of_days;
+    cout << "\t\t\tМесяц номер " << month << endl;
 
-
-    cout << "Новые изменения во второй ветке!\n";
     return 0;
 }
