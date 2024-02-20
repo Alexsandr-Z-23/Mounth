@@ -86,5 +86,8 @@ int main()
             break;
     }
     //cout << count << "\t" << num_of_days;
+
+
+    cout << "Новые изменения во второй ветке!\n";
     return 0;
 }
